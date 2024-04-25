@@ -4,4 +4,4 @@
 
 Aquí está una captura de pantalla de mi blog ficticio:
 
-![Captura de pantalla del blog](screenshot_FacuBlog.png)
+![Captura de pantalla del blog](Screenshot_FacuBlog.png)
